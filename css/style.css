@@ -1,8 +1,10 @@
+.backgroung
 body {
   background-color: rgb(253, 236, 249);
 }
-
-hr {
+hr 
+#dotted-line
+{
   border-style: dotted;
   border-top: none;
   border-left: none;
