@@ -1,19 +1,35 @@
-.backgroung
 body {
-  background-color: rgb(253, 236, 249);
+  background-color:white;
+  color: black;
 }
-hr 
-#dotted-line
-{
+
+.divcl{
+  padding: 10px 12px;
+  background-color: white;
+}
+
+#namecl{
+  color: #ffffff;
+}
+
+hr {
   border-style: dotted;
   border-top: none;
   border-left: none;
   border-right: none;
   border-width: 7px;
-  border-color: rgb(245, 195, 203);
+  border-color: #ffd1dc;
   width: 5%;
 }
 
 img {
   height: 150px;
+}
+
+h1 {
+  color: #000000;
+}
+
+h3 {
+  color: #000000;
 }
